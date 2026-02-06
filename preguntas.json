@@ -1,1 +1,72 @@
-
+[
+  {
+    "pregunta": "¿Qué es un EPP en seguridad industrial?",
+    "A": "Equipo de Protección Personal",
+    "B": "Equipo de Producción Preventiva",
+    "C": "Elemento de Proceso Productivo",
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Cuál es el principal objetivo de la prevención de riesgos?",
+    "A": "Aumentar producción",
+    "B": "Reducir accidentes laborales",
+    "C": "Disminuir salarios",
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué elemento protege la cabeza?",
+    "A": "Casco",
+    "B": "Guantes",
+    "C": "Botas",
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué señal indica peligro?",
+    "A": "Azul",
+    "B": "Verde",
+    "C": "Rojo",
+    "correcta": "C"
+  },
+  {
+    "pregunta": "¿Qué previene resbalones?",
+    "A": "Orden y limpieza",
+    "B": "Ruido",
+    "C": "Calor",
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué protege los ojos?",
+    "A": "Lentes de seguridad",
+    "B": "Casco",
+    "C": "Chaleco",
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Qué hacer ante derrame químico?",
+    "A": "Ignorarlo",
+    "B": "Reportarlo",
+    "C": "Pisarlo",
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué evita lesiones por carga?",
+    "A": "Mala postura",
+    "B": "Técnica correcta de levantamiento",
+    "C": "Correr",
+    "correcta": "B"
+  },
+  {
+    "pregunta": "¿Qué indica salida de emergencia?",
+    "A": "Señal verde",
+    "B": "Señal roja",
+    "C": "Señal negra",
+    "correcta": "A"
+  },
+  {
+    "pregunta": "¿Quién es responsable de la seguridad?",
+    "A": "Solo el jefe",
+    "B": "Todos los trabajadores",
+    "C": "Nadie",
+    "correcta": "B"
+  }
+]
