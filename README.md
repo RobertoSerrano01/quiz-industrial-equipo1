@@ -11,4 +11,4 @@ Aplicación hecha con Streamlit que muestra preguntas sobre seguridad industrial
 
 ## App publicada
 
-(Streamlit Cloud)
+(https://quiz-industrial-equipo1-jtblh4nnckqgmevakkhwbn.streamlit.app/)
